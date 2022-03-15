@@ -1,1 +1,12 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45"><defs><style>.cls-1{fill:#4f5c59;}</style></defs><g id="basket_filled" data-name="basket filled"><path id="Path_23" data-name="Path 23" class="cls-1" d="M15.76,44.63a4.38,4.38,0,1,1,4.38-4.38,4.38,4.38,0,0,1-4.38,4.38"/><path id="Path_24" data-name="Path 24" class="cls-1" d="M36.29,44.63a4.38,4.38,0,1,1,4.38-4.38,4.38,4.38,0,0,1-4.38,4.38"/><path id="Path_25" data-name="Path 25" class="cls-1" d="M16.68,33a6,6,0,0,1-5.8-4.79L6.16,4.75H.39V.37H9.75l1.89,9.41h33L41.09,28.17a6.08,6.08,0,0,1-6,4.81H16.68M12.51,14.15l2.65,13.18a1.66,1.66,0,0,0,1.59,1.27H35.16a1.69,1.69,0,0,0,1.63-1.27l2.52-13.18Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 45 45" style="enable-background:new 0 0 45 45;" xml:space="preserve">
+<g id="basket_filled">
+	<path id="Path_23" d="M15.8,44.6c-2.4,0-4.4-2-4.4-4.4c0-2.4,2-4.4,4.4-4.4c2.4,0,4.4,2,4.4,4.4S18.2,44.6,15.8,44.6L15.8,44.6"/>
+	<path id="Path_24" d="M36.3,44.6c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4c2.4,0,4.4,2,4.4,4.4S38.7,44.6,36.3,44.6
+		C36.3,44.6,36.3,44.6,36.3,44.6"/>
+	<path id="Path_25" d="M16.7,33c-2.8,0-5.2-2-5.8-4.8L6.2,4.8H0.4V0.4h9.4l1.9,9.4h33l-3.5,18.4C40.5,31,38,33,35.1,33L16.7,33
+		 M12.5,14.1l2.6,13.2c0.2,0.7,0.8,1.3,1.6,1.3h18.4c0.8,0,1.4-0.5,1.6-1.3l2.5-13.2H12.5z"/>
+</g>
+</svg>
