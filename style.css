@@ -81,6 +81,10 @@ li {
   background-color: inherit;
 }
 
+footer {
+  display: flex;
+}
+
 @media (min-width: 600px) {
   #hamburger {
     display: none;
@@ -103,5 +107,32 @@ li {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
+  }
+
+  footer {
+    justify-content: space-around;
+  }
+
+  footer div {
+    display: grid;
+    grid-template-rows: 1fr;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #logo {
+    width: 30%;
+    display: block;
+  }
+
+  footer img {
+    width: 50px;
+  }
+
+  .so_me {
+    display: flex;
   }
 }
