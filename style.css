@@ -1,6 +1,21 @@
+@font-face {
+  font-family: Squada;
+  src: url(font/squadaone-regular-webfont.woff2);
+}
+
+@font-face {
+  font-family: Libre Baskerville;
+  src: url(font/librebaskerville-regular-webfont.woff2);
+}
+
 * {
   padding: 0;
   margin-top: 0;
+  font-family: Squada;
+}
+
+p, span, div, a, li {
+    font-family: Libre Baskerville;
 }
 
 img {
